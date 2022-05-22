@@ -1,0 +1,4 @@
+.todoitem_remove {
+  display: flex;
+  justify-content: space-between;
+}
